@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.24.2](https://github.com/nftstorage/nft.storage/compare/api-v2.24.1...api-v2.24.2) (2022-05-20)
+
+
+### Bug Fixes
+
+* send checksum on s3 upload ([#1926](https://github.com/nftstorage/nft.storage/issues/1926)) ([3738f77](https://github.com/nftstorage/nft.storage/commit/3738f77fcb629c49fc11daac8e55a5a0500d4769))
+
 ### [2.24.1](https://github.com/nftstorage/nft.storage/compare/api-v2.24.0...api-v2.24.1) (2022-05-18)
 
 
